@@ -1,4 +1,4 @@
-Aquí tienes una descripción lista para pegar en el README del repositorio de Semáforos Inteligentes:
+
 
 Semáforos Inteligentes
 
